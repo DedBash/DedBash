@@ -1,7 +1,6 @@
 <h1>About Me</h1>
 - Level: 18 <br>
 - GPS: 🇩🇪 & 🇳🇱 <br>
-- Created from: 🇨🇭 + 🇨🇳<br>
 - Hobbies: Anime, Computer- Hardware & Software<br>
 - Something could: Bash, CSS, HTML, C#, C++ and Discord.js<br>
 <h2>Projects</h2>
