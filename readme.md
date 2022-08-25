@@ -3,7 +3,7 @@
 - GPS: 🇩🇪 & 🇳🇱 <br>
 - Hobbies: Anime, Computer- Hardware & Software<br>
 - Something could: Bash, CSS, HTML, C#, PHP and Discord.js<br>
-<h2>Projects</h2>
+<h2>Repositories</h2>
 
 [![Installer Build](https://img.shields.io/badge/unofficial--BeamMP--Server--installer%20-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-system/unofficial-BeamMP-Server-installer)
 [![YOURLS DC Build](https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge)](https://github.com/Kiznaiver-Systems/yourls-discord-bot)
