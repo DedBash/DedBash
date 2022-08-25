@@ -6,8 +6,8 @@
 <h2>Projects</h2>
 
 [![Installer Build](https://img.shields.io/badge/unofficial--BeamMP--Server--installer%20-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-system/unofficial-BeamMP-Server-installer)
-[![YOURLS DC Build](https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge)](#)
-[![TV WEB APP     ](https://img.shields.io/badge/AndroidTV%20Web%20APP-OK-brightgreen?style=for-the-badge)](#)<br>
+[![YOURLS DC Build](https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge)](https://github.com/Kiznaiver-Systems/yourls-discord-bot)
+[![TV WEB APP     ](https://img.shields.io/badge/AndroidTV%20Web%20APP-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP)<br>
 
 <h2>OCTO RING</h2>
 <a href="https://octo-ring.com/">Info about OCTO RING</a><br>
