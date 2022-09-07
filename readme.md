@@ -10,7 +10,7 @@
 [![TV WEB APP     ](https://img.shields.io/badge/AndroidTV%20Web%20APP-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP)<br>
 <h2>Organizations</h2>
 <a href="https://github.com/Kiznaiver-Systems-Watchfaces"> Kiznaiver.Systems Watchfaces </a> | Info: Here I publish my Watchface for WearOS watches.<br>
-<a href="https://github.com/RealityV"> RealityV </a> |Info: Not public.
+<a href="https://github.com/RealityV"> RealityV </a> | Info: Not public.
 
 <h2>OCTO RING</h2>
 <a href="https://octo-ring.com/">Info about OCTO RING</a><br>
