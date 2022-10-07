@@ -13,21 +13,22 @@
 | ![](https://github-readme-stats.vercel.app/api/pin/?username=Kiznaiver-Systems&repo=watchface-installer&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=Kiznaiver-Systems&repo=yourls-discord-bot&theme=tokyonight&hide_border=true) |
 
 <h2>Organizations</h2>
-
+  
 | Name  | Info  | 
 |---|---|
 | <a href="https://github.com/Kiznaiver-Systems-Watchfaces"> Kiznaiver.Systems Watchfaces </a> | Here I publish my Watchface for WearOS watches |
 | <a href="https://github.com/RealityV"> RealityV </a> | Not public |
 
-
-## GitHub Stats:
+## GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiznaiver-Systems&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/wakatime/?username=KiznaiverSystems&theme=tokyonight&hide_border=true)
 
 ## Random Dev Meme
+<p align="center">
 <img src="https://random-memer.herokuapp.com/" height="512px"/>
+</p>
 
 ## Random Waifu
+<p align="center">
 <img src="https://waifu.vercel.app/sfw/waifu" height="512px"/>
-
-
+</p>
