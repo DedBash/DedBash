@@ -25,7 +25,9 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime/?username=KiznaiverSystems&theme=tokyonight&hide_border=true)
 
 ## Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" height="512px"/>
 
+## Random Waifu
+<img src="https://waifu.vercel.app/sfw/waifu" height="512px"/>
 
 
