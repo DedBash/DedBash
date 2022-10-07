@@ -8,7 +8,8 @@
 [![Installer Build](https://img.shields.io/badge/unofficial--BeamMP--Server--installer%20-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-system/unofficial-BeamMP-Server-installer)
 [![YOURLS DC Build](https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge)](https://github.com/Kiznaiver-Systems/yourls-discord-bot)
 [![TV WEB APP     ](https://img.shields.io/badge/AndroidTV%20Web%20APP-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-Systems/AndroidTV-WebAPP)
-[![Quad9DNS](https://img.shields.io/badge/Quad9DNS4Magisk-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-Systems/Quad9DNS4Magisk)<br>
+[![Quad9DNS](https://img.shields.io/badge/Quad9DNS4Magisk-OK-brightgreen?style=for-the-badge)](https://github.com/Kiznaiver-Systems/Quad9DNS4Magisk)
+[![Watchfaceisntaller](https://img.shields.io/badge/WearOS%20watchface%20installer-WIP-9cf?style=for-the-badge)](https://github.com/Kiznaiver-Systems/watchface-installer)<br>
 <h2>Organizations</h2>
 
 | Name  | Info  | 
