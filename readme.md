@@ -12,12 +12,6 @@
 | [![Watchfaceisntaller](https://img.shields.io/badge/WearOS%20watchface%20installer-WIP-9cf?style=for-the-badge)](https://github.com/DedBash/watchface-installer) | [![YOURLS DC Build](https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge)](https://github.com/DedBash/yourls-discord-bot) |
 | ![](https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=watchface-installer&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=yourls-discord-bot&theme=tokyonight&hide_border=true) |
 
-<h2>Organizations</h2>
-  
-| Name  | Info  | 
-|---|---|
-| <a href="https://github.com/Kiznaiver-Systems-Watchfaces"> Kiznaiver.Systems Watchfaces </a> | Here I publish my Watchface for WearOS watches |
-| <a href="https://github.com/RealityV"> RealityV </a> | Not public |
 
 ## GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DedBash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
