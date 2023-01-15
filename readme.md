@@ -16,13 +16,3 @@
 ## GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DedBash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-## Random Dev Meme
-<p align="center">
-<img src="https://random-memer.herokuapp.com/" height="512px"/>
-</p>
-
-## Random Waifu
-<p align="center">
-<img src="https://waifu.vercel.app/sfw/waifu" height="512px"/>
-</p>
