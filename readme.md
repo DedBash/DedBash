@@ -6,11 +6,28 @@
 <h2>Repositories</h2>
 
 
-| [![Installer Build](https://img.shields.io/badge/BeamMP--Server--installer%20-OK-brightgreen?style=for-the-badge)](https://github.com/DedBash/unofficial-BeamMP-Server-installer) | [![TV WEB APP](https://img.shields.io/badge/AndroidTV%20Web%20APP-OK-brightgreen?style=for-the-badge)](https://github.com/DedBash/AndroidTV-WebAPP) | [![MagiskDNSServers](https://img.shields.io/badge/Magisk%20DNS%20Servers-OK-brightgreen?style=for-the-badge)](https://github.com/Dedbash/Quad9DNS4Magisk) |
-|--|--|--|
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=unofficial-BeamMP-Server-installer&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=AndroidTV-WebAPP&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=Quad9DNS4Magisk&theme=tokyonight&hide_border=true) |
-| [![Watchfaceisntaller](https://img.shields.io/badge/WearOS%20watchface%20installer-WIP-9cf?style=for-the-badge)](https://github.com/DedBash/watchface-installer) | [![YOURLS DC Build](https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge)](https://github.com/DedBash/yourls-discord-bot) |
-| ![](https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=watchface-installer&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=yourls-discord-bot&theme=tokyonight&hide_border=true) |
+<table>
+  <tr>
+    <th align="center"><a href="https://github.com/DedBash/BeamMP-Server-installer"><img src="https://img.shields.io/badge/BeamMP--Server--installer%20-OK-brightgreen?style=for-the-badge"></a></th>
+    <th align="center"><a href="https://github.com/DedBash/AndroidTV-WebAPP"><img src="https://img.shields.io/badge/AndroidTV%20Web%20APP-OK-brightgreen?style=for-the-badge"></a></th>
+    <th align="center"><a href="https://github.com/DedBash/Magisk-DNS-Servers"><img src="https://img.shields.io/badge/Magisk%20DNS%20Servers-OK-brightgreen?style=for-the-badge"></a></th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/DedBash/BeamMP-Server-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=unofficial-BeamMP-Server-installer&theme=tokyonight&hide_border=true"></a></td>
+    <td align="center"><a href="https://github.com/DedBash/AndroidTV-WebAPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=AndroidTV-WebAPP&theme=tokyonight&hide_border=true"></a></td>
+    <td align="center"><a href="https://github.com/DedBash/Magisk-DNS-Servers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=Quad9DNS4Magisk&theme=tokyonight&hide_border=true"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere/Apt-Mirror"><img src="https://img.shields.io/badge/APT--Mirror%20-OK-brightgreen?style=for-the-badge"></a></td>
+    <td align="center"><a href="https://github.com/DedBash/watchface-installer"><img src="https://img.shields.io/badge/WearOS%20watchface%20installer-WIP-9cf?style=for-the-badge"></a></td>
+    <td align="center"><a href="https://github.com/DedBash/yourls-discord-bot"><img src="https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Nixphere/Apt-Mirror"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nixphere&repo=Apt-Mirror&theme=tokyonight&hide_border=true"></a></td>
+    <td align="center"><a href="https://github.com/DedBash/watchface-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=watchface-installer&theme=tokyonight&hide_border=true"></a></td>
+    <td align="center"><a href="https://github.com/DedBash/yourls-discord-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=yourls-discord-bot&theme=tokyonight&hide_border=true"></a></td>
+  </tr>
+</table>
 
 
 ## GitHub Stats:  
