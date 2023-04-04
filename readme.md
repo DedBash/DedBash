@@ -33,3 +33,11 @@
 ## GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DedBash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## Hosting:
+Here I host all my servers (affiliate links)
+<table>
+  <tr>
+    <td><a href="https://deinserverhost.de/store/aff.php?aff=4815"><img src="https://github.com/DedBash/dedbahs-media/blob/main/readme/host_dsh.png"></a></th>
+    <td><a href="https://hetzner.cloud/?ref=YSNOAqr7PPxY"><img src="https://github.com/DedBash/dedbahs-media/blob/main/readme/host_hetzner.png"></a></th>
+  </tr>
+</table>
