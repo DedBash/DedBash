@@ -29,25 +29,19 @@
 
 <h2>Guides</h2>
 
- <table>
+<table>
   <tr>
-    <th align="center"><a href="https://github.com/DedBash/Mailcow-on-aarch64-arm64"><img src="https://img.shields.io/badge/Mailcow--on--aarch64--arm64%20-OK-brightgreen?style=for-the-badge"></a></th>
+    <th align="center"><a href="https://github.com/DedBash/Mailcow-on-aarch64-arm64"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=Mailcow-on-aarch64-arm64&theme=tokyonight&hide_border=true"></a></th>
     <th align="center"><a href="#"></a></th>
     <th align="center"><a href="#"></a></th>
   </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/DedBash/Mailcow-on-aarch64-arm64"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=Mailcow-on-aarch64-arm64&theme=tokyonight&hide_border=true"></a></td>
-    <td align="center"><a href="#"></a></td>
-    <td align="center"><a href="#"></a></td>
-  </tr>
- </tabel>
-
+</table>
 
 
 <h2> GitHub Stats:  </h2>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedBash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DedBash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <h2> Hosting:</h2>
 Here I host all my servers (affiliate links)
