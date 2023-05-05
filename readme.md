@@ -1,8 +1,7 @@
 <h1>About Me</h1>
 - Level: 19 <br>
-- GPS: 🇩🇪 & 🇳🇱 <br>
 - Hobbies: Anime, Computer- Hardware & Software<br>
-- Something could: Bash, CSS, HTML, C#, PHP and Discord.js<br>
+- Something could: Bash, Java, C# and PHP and JavaScript<br>
 <h2>Repositories</h2>
 
 
