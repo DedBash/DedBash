@@ -46,7 +46,7 @@
 Here I host all my servers (affiliate links)
 <table>
   <tr>
-    <td><a href="https://deinserverhost.de/store/aff.php?aff=4815"><img src="https://github.com/DedBash/dedbahs-media/blob/main/readme/host_dsh.png"></a></th>
-    <td><a href="https://hetzner.cloud/?ref=YSNOAqr7PPxY"><img src="https://github.com/DedBash/dedbahs-media/blob/main/readme/host_hetzner.png"></a></th>
+    <td><a href="https://deinserverhost.de/store/aff.php?aff=4815"><img src="https://github.com/DedBash/dedbash-media/blob/main/readme/host_dsh.png"></a></th>
+    <td><a href="https://hetzner.cloud/?ref=YSNOAqr7PPxY"><img src="https://github.com/DedBash/dedbash-media/blob/main/readme/host_hetzner.png"></a></th>
   </tr>
 </table>
