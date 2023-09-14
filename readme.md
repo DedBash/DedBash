@@ -40,7 +40,7 @@
 <h2> GitHub Stats:  </h2>
 <table>
   <tr>
-    <th align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dedbash&show_icons=true&theme=tokyonight&hide_border=true"></a></th>
+    <th align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dedbash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"></a></th>
     <th align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedBash&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></a></th>
   </tr>
 </table>
