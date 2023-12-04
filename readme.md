@@ -16,14 +16,6 @@
     <td align="center"><a href="https://github.com/DedBash/AndroidTV-WebAPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=AndroidTV-WebAPP&theme=tokyonight&hide_border=true"></a></td>
     <td align="center"><a href="https://github.com/DedBash/Magisk-DNS-Servers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=Quad9DNS4Magisk&theme=tokyonight&hide_border=true"></a></td>
   </tr>
-  </td>
-    <td align="center"><a href="https://github.com/DedBash/watchface-installer"><img src="https://img.shields.io/badge/WearOS%20watchface%20installer-WIP-9cf?style=for-the-badge"></a></td>
-    <td align="center"><a href="https://github.com/DedBash/yourls-discord-bot"><img src="https://img.shields.io/badge/YOURLS%20Discord%20Bot-Error-orange?style=for-the-badge"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/DedBash/watchface-installer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DedBash&repo=watchface-installer&theme=tokyonight&hide_border=true"></a></td>
-    <td align="center"><a href="https://github.com/DedBash/yourls-discord-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=yourls-discord-bot&theme=tokyonight&hide_border=true"></a></td>
-  </tr>
 </table>
 
 <h2>Guides</h2>
