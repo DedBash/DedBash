@@ -24,7 +24,7 @@
   <tr>
     <th align="center"><a href="https://github.com/DedBash/Mailcow-on-aarch64-arm64"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=Mailcow-on-aarch64-arm64&theme=tokyonight&hide_border=true"></a></th>
     <th align="center"><a href="https://github.com/DedBash/Mullvad-VPN-on-Fritz-Box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=Mullvad-VPN-on-Fritz-Box&theme=tokyonight&hide_border=true"></a></th>
-    <th align="center"><a href="#"></a></th>
+    <th align="center"><a href="https://github.com/DedBash/Hetzner-Proxmox-IP-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dedbash&repo=Hetzner-Proxmox-IP-setup&theme=tokyonight&hide_border=true"></a></th>
   </tr>
 </table>
 
