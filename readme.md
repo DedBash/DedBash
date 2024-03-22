@@ -28,6 +28,6 @@
 </table>
 
 <h2> Hosting:</h2>
-Here I host all my servers (affiliate links)
+I host most of my KVMs here (affiliate link)
 <br>
 <a href="https://24fi.re/ref/Xn2NXQ37"><img src="https://github.com/DedBash/DedBash/blob/main/hRJZ2Xgt_logo-banner-discord.png" width='33%'></a>
