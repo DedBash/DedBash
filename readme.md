@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <th align="center"><a href="https://github.com/DedBash/BeamMP-Server-installer"><img src="https://img.shields.io/badge/BeamMP--Server--installer%20-OK-brightgreen?style=for-the-badge"></a></th>
+    <th align="center"><a href="https://github.com/DedBash/BeamMP-Server-installer"><img src="https://img.shields.io/badge/BeamMP--Server--installer%20-OUT-red?style=for-the-badge"></a></th>
     <th align="center"><a href="https://github.com/DedBash/AndroidTV-WebAPP"><img src="https://img.shields.io/badge/AndroidTV%20Web%20APP-OK-brightgreen?style=for-the-badge"></a></th>
     <th align="center"><a href="https://github.com/DedBash/Magisk-DNS-Servers"><img src="https://img.shields.io/badge/Magisk%20DNS%20Servers-OK-brightgreen?style=for-the-badge"></a></th>
   </tr>
